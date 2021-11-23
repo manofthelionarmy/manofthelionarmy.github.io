@@ -1,0 +1,8 @@
+Configuration file: /home/armando/Desktop/workspace/manofthelionarmy.github.io/myblog/_config.yml
+            Source: /home/armando/Desktop/workspace/manofthelionarmy.github.io/myblog
+       Destination: /home/armando/Desktop/workspace/manofthelionarmy.github.io/myblog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.218 seconds.
+ Auto-regeneration: enabled for '/home/armando/Desktop/workspace/manofthelionarmy.github.io/myblog'
