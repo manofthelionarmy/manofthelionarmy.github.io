@@ -1,4 +1,4 @@
 build:
 	npm run build
 deploy:
-	./scripts/build.sh
+	npm run deploy
